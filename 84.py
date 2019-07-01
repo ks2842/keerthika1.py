@@ -1,2 +1,2 @@
-mom=input()
-print(ord(mom))
+mumu=input()
+print(ord(mumu))
