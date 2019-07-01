@@ -1,2 +1,2 @@
-k=input()
-print(ord(k))
+mom=input()
+print(ord(mom))
